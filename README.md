@@ -7,39 +7,28 @@
 ## IDEs 💻
 * Visual Studio
 ## Usage 🚀
-* Download EXE file from this [Link](https://github.com/MohamedRagaab/Function-Plotter/blob/main/EXE%20app/Release.rar) 
-* Extract the file and open FunctionPlotter.exe
+* Include library file on your program
+``` c++
+#include "Topo.h"
+```
 ## Cloning the Repo 
 * clone the repository and open the project in visual studio.
 ```
-* cd Function-Plotter
-* FunctionPlotter.sln
+* cd Topology Api
+* Topology Api.sln
 ```
 
-## ScreenShots 🖼️
-<div align='center'>
-<img height="400px" src="https://user-images.githubusercontent.com/38363762/168396193-c929283b-a88c-407c-b390-77371111c4a1.png">
-<hr/>
-</div>
+## Example API 🖼️
+* API Implementation
+
 
 <div align='center'>
-<img height="400px" src="https://user-images.githubusercontent.com/38363762/168396432-e0dd2555-344e-4f29-b799-fa09a2410423.png">
+<img height="400px" src="https://user-images.githubusercontent.com/38363762/169151368-504867cb-3902-4467-ab87-fc58c407cf6c.png">
 <hr/>
 </div>
-
+* Read Json File
 <div align='center'>
-<img height="400px" src="https://user-images.githubusercontent.com/38363762/168396504-8b53af60-5706-498c-bba4-8609c87be6e1.png">
-<hr/>
-</div>
-
-## input validation 🖐️
-<div align='center'>
-<img height="400px" src="https://user-images.githubusercontent.com/38363762/168396573-b4296a2a-aea0-4e8a-b0b4-2f01ba0cd0c4.png">
-<hr/>
-</div>
-
-<div align='center'>
-<img height="400px" src="https://user-images.githubusercontent.com/38363762/168397096-c16a3822-5d5e-4996-b720-a4bfed59d351.png">
+<img height="400px" src="https://user-images.githubusercontent.com/38363762/169151253-3cc6c4a3-a3dc-44f3-92b9-07a99443eec6.png">
 <hr/>
 </div>
 
