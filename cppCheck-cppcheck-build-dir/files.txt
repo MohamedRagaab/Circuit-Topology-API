@@ -1,0 +1,2 @@
+main.a1:Debug|Win32:D:/Work/Master Micro Internship/Tasks/task2/Topology Api/Topology Api/main.cpp
+Topo.a1:Debug|Win32:D:/Work/Master Micro Internship/Tasks/task2/Topology Api/Topology Api/Topo.cpp

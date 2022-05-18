@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<analyzerinfo checksum="2965893669">
+        <error id="preprocessorErrorDirective" severity="error" msg="failed to evaluate #elif condition" verbose="failed to evaluate #elif condition">
+            <location file="D:\Work\Master Micro Internship\Tasks\task2\Topology Api\Topology Api\nlohmann\json.hpp" line="2345" column="0"/>
+        </error>
+</analyzerinfo>

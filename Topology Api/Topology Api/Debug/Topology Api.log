@@ -1,3 +1,2 @@
-﻿  Topo.cpp
-D:\Work\Master Micro Internship\Tasks\task2\Topology Api\Topology Api\Topo.cpp(66,21): warning C4018: '<': signed/unsigned mismatch
-  Topology Api.vcxproj -> D:\Work\Master Micro Internship\Tasks\task2\Topology Api\Debug\Topology Api.exe
+﻿  main.cpp
+  Topology Api.vcxproj -> D:\Work\Master Micro Internship\Tasks\task2\Topology API\Debug\Topology Api.exe

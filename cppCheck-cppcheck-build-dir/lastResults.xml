@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results version="2">
+    <cppcheck version="2.7"/>
+    <errors>
+        <error id="preprocessorErrorDirective" severity="error" msg="failed to evaluate #elif condition" verbose="failed to evaluate #elif condition" sinceDate="5/18/2022">
+            <location file="Topology Api\Topology Api\nlohmann\json.hpp" line="2345"/>
+        </error>
+    </errors>
+</results>
