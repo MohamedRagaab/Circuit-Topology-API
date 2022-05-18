@@ -35,4 +35,4 @@
 
 ## License
 
-> This software is licensed under MIT License, See [License](https://github.com/MohamedRagaab/Function-Plotter/blob/main/LICENSE) for more information ©MohamedRagab.
+> This software is licensed under MIT License, See [License](https://github.com/MohamedRagaab/Circuit-Topology-API/blob/main/LICENSE) for more information ©MohamedRagab.
